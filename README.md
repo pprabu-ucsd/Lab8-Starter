@@ -1,5 +1,6 @@
 # Lab8-Starter
 ## Names: Pranav Prabu
+## GitHub Pages Link: [Click Here](https://pprabu-ucsd.github.io/Lab8-Starter/)
 
 ### How are graceful degradation and service workers related?
 
